@@ -1,0 +1,42 @@
+[33mcommit e2c32fcd67c8836882e1f862cfe4a21293b5fe1b[m
+Merge: 990520a 7bd5150
+Author: Aman Agarwal <agaraman0@gmail.com>
+Date:   Sun Jun 24 00:26:12 2018 +0530
+
+    fixed merege conflicts
+
+[33mcommit 990520a2fa47772e995cdd4d63bfd8e3d5e6b71c[m
+Author: Aman Agarwal <agaraman0@gmail.com>
+Date:   Sun Jun 24 00:18:02 2018 +0530
+
+    remove New Line
+
+[33mcommit 7bd5150afee605c46e3712611bfb3a7bfcadcc39[m
+Author: Aman Agarwal <agaraman0@gmail.com>
+Date:   Sun Jun 24 00:15:39 2018 +0530
+
+    Update home.html
+
+[33mcommit 123d13ca56ed43433e5b2bdf1dae846102c46d6c[m
+Author: Aman Agarwal <agaraman0@gmail.com>
+Date:   Sun Jun 24 00:14:58 2018 +0530
+
+    Update home.html
+
+[33mcommit 766a691dbca0364be7a5bdba94e09eab5cbd6cac[m
+Author: Aman Agarwal <agaraman0@gmail.com>
+Date:   Sun Jun 24 00:07:15 2018 +0530
+
+    Update home.html
+
+[33mcommit c7cd9d56694ae4da3f29fe71c7b0e8a508d03d55[m
+Author: Aman Agarwal <agaraman0@gmail.com>
+Date:   Sun Jun 24 00:02:00 2018 +0530
+
+    Adding Templates
+
+[33mcommit b80876b0732364eeef9cd59a88f369112007d036[m
+Author: Aman Agarwal <agaraman0@gmail.com>
+Date:   Sun Jun 24 00:00:14 2018 +0530
+
+    webapp
