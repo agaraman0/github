@@ -10,3 +10,4 @@
 - [~~Quora~~](https://www.quora.com)
 	* [Medium](https://www.google.com)
 
+-[InstaGram](https://www.instagram.com)
