@@ -1,8 +1,6 @@
 from flask import Flask,render_template       # import flask and flask application for web
 
 
-# Adding Comments To This File Which Needed For This Situation
-
 app = Flask(__name__)          # defining App
 
 @app.route('/')                # giving route to the app for home page
